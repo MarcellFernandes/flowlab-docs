@@ -1,0 +1,18 @@
+site_name: FlowLab Documentation
+
+theme:
+  name: material
+
+plugins:
+  - search
+  - mermaid2
+
+markdown_extensions:
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Overview: overview.md
+  - Quickstart: quickstart.md
+  - Use Case: use-case.md
+  - Diagrams: diagrams.md
