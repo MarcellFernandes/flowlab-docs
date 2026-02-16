@@ -77,4 +77,4 @@ WHERE protocol = 'PROT-20260214-0001';
 
 ## 4) Summary
 
-"I simulated the end-to-end laboratory exam lifecycle: from device capture through ingestion, sector validation, manager approval, and PDF publication. I modeled the device payload, defined state transitions, and documented verification steps including API examples and audit queries. The artifact shows how operational lab processes can be converted into clear, testable documentation suitable for system integrators and operations teams."
+"This use case simulates the end-to-end laboratory exam lifecycle: from device capture through ingestion, sector validation, manager approval, and PDF publication. I modeled the device payload, defined state transitions, and documented verification steps including API examples and audit queries. The artifact shows how operational lab processes can be converted into clear, testable documentation suitable for system integrators and operations teams."
